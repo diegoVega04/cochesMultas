@@ -6,7 +6,6 @@ import java.util.Optional;
 
 public class Alerta {
     public static void notificacion(String mensaje) {
-        // Crear una alerta de tipo información
         Alert alerta = new Alert(javafx.scene.control.Alert.AlertType.INFORMATION);
         alerta.setTitle("Notificación");
         alerta.setHeaderText(null);
