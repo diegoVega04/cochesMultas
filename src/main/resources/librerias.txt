@@ -1,0 +1,12 @@
+com.sun.istack.runtime
+jboss.logging
+com.fasterxml.classmate
+hibernate todo
+javax.persistance
+javax.activation
+javax.transaction (descargar internet)
+net.bytebuddy
+javax.xml.bind
+glassfish.jaxb.runtime
+antlr
+mysql
